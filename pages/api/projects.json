@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Scrap-Soldier.com",
+    "image": "https://cdn.shopify.com/s/files/1/0551/0427/4534/files/334026332_760640948958590_8097740737923607811_n.jpg?v=1681841994&width=900",
+    "description": "A platform for MMA fans to buy and sell their used MMA gear",
+    "tags": ["next", "node", "mongodb", "shopify", "tailwind", "stripe"],
+    "source_code": "https://github.com/wisecarverworks",
+    "demo": "https:scrap-soldier.com"
+  },
+  {
+    "id": 2,
+    "name": "Corey Austin Lowe",
+    "image": "https://pro2-bar-s3-cdn-cf.myportfolio.com/5a989661-2365-43b3-812f-742bac7fac6d/b94a95f2-f664-46f3-a945-dff078a5012c_rw_1920.jpg?h=b504ad895b71bed8eb7e3e4320633dba",
+    "description": "E-commerce website for paintings",
+    "tags": ["react", "node", "mongodb", "redux", "adobe premier", "material-ui"],
+    "demo": "https://corylowe.myportfolio.com/"
+  }
+]
